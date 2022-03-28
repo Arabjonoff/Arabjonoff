@@ -14,8 +14,8 @@
 - 👯 I’m looking to collaborate on preparation for FAANG interviews
 - 🤔 I’m looking for help with English to improve my speaking skills
 - 💬 Ask me about coding, pool, football, music, ... (anything you want) 
-- 📫 How to reach me: shahboz.turonov98@gmail.com
-- 🎥 Favorite movie: Pirates of the Caribbean
+- 📫 How to reach me: sheykxmuhammad@gmail.com
+- 🎥 Favorite movie: alone at home
 - ⚽️ Favorite team: FC Barcelona
 
 ### Me on social networks:
