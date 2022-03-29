@@ -1,6 +1,6 @@
 ### Hello World 👋👋👋
 
-### I am Muhammadjon
+### I am Mukhammadjon
 
 [website]: https://github.com/Arabjonoff
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arabjonoff&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
