@@ -1,7 +1,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arabjonoff&color=brightgreen" alt="Arabjonoff "/> </p>
-### I am Mukhammadjon
+Hello I am Mukhammadjon
+<br>
 <p>- 🔭 I’m currently working on communication skills</p>
 <p>- 🌱 I’m currently learning Go more deeper</p>
 <p>- 👯 I’m looking to collaborate on preparation for FAANG interviews</p>
@@ -41,6 +42,3 @@
 <a href = "pycode.uz"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
 </p>
 
-
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/Arabjonoff/Arabjonoff/blob/output/github-contribution-grid-snake.gif)
