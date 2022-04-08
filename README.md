@@ -1,12 +1,15 @@
 
-<br>
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://image.pngaaa.com/955/5042955-middle.png" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arabjonoff&color=brightgreen" alt="Arabjonoff "/> </p>
+### I am Mukhammadjon
+- 🔭 I’m currently working on communication skills
+- 🌱 I’m currently learning Go more deeper
+- 👯 I’m looking to collaborate on preparation for FAANG interviews
+- 🤔 I’m looking for help with English to improve my speaking skills
+- 💬 Ask me about coding, pool, football, music, ... (anything you want)
+- 📫 How to reach me: sheykxmuhammad@gmail.com
+- 🎥 Favorite movie: alone at home
+- ⚽️ Favorite team: FC Barcelona
 <br>
 <br>
 
@@ -16,21 +19,15 @@
 
 [![Shahboz's github stats](https://github-readme-stats.vercel.app/api?username=Arabjonoff&count_private=true&include_all_commits&show_icons=true&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arabjonoff&color=brightgreen" alt="Arabjonoff "/> </p>
-
-- 🔭 I’m currently working on communication skills
-- 🌱 I’m currently learning Go more deeper
-- 👯 I’m looking to collaborate on preparation for FAANG interviews
-- 🤔 I’m looking for help with English to improve my speaking skills
-- 💬 Ask me about coding, pool, football, music, ... (anything you want)
-- 📫 How to reach me: sheykxmuhammad@gmail.com
-- 🎥 Favorite movie: alone at home
-- ⚽️ Favorite team: FC Barcelona
-
-
 <br/>
-<br/>
-<br/>
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://image.pngaaa.com/955/5042955-middle.png" alt="flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </p>
+<br>
+<br>
 
 
 ## Connect with me:
