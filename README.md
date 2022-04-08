@@ -38,6 +38,6 @@
 <a href = "https://www.youtube.com/channel/UCqWgA76dLZX5Zj_Sx9v3O2Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100070709786508"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "sheykxmuhammad@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
-<a href = "pycode.uz"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
+<a href = "https://www.pycode.uz"><img src="https://img.icons8.com/fluent/48/000000/web.png"/></a>
 </p>
 
