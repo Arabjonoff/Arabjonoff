@@ -33,5 +33,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="max-width:100%;">][telegram]
 
 <br/>
+![snake gif](https://github.com/MrNurbek/github_bot/blob/output/github-contribution-grid-snake.gif)
 
 ### Happy Coding
