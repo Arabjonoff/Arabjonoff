@@ -16,13 +16,22 @@
 <br>
 <br>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=narayanbavisetti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[website]: https://github.com/Arabjonoff
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arabjonoff&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Shahboz's github stats](https://github-readme-stats.vercel.app/api?username=Arabjonoff&count_private=true&include_all_commits&show_icons=true&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arabjonoff&color=brightgreen" alt="Arabjonoff "/> </p>
+
+- 🔭 I’m currently working on communication skills
+- 🌱 I’m currently learning Go more deeper
+- 👯 I’m looking to collaborate on preparation for FAANG interviews
+- 🤔 I’m looking for help with English to improve my speaking skills
+- 💬 Ask me about coding, pool, football, music, ... (anything you want)
+- 📫 How to reach me: sheykxmuhammad@gmail.com
+- 🎥 Favorite movie: alone at home
+- ⚽️ Favorite team: FC Barcelona
 
 
 <br/>
