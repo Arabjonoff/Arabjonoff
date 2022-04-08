@@ -45,6 +45,7 @@
 <a href = "https://www.linkedin.com/in/mukhammadjon-arabjonov-3800b8220"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/arabjonofff"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqWgA76dLZX5Zj_Sx9v3O2Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UCqWgA76dLZX5Zj_Sx9v3O2Q"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"/></a>
 
 </p>
 
