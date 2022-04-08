@@ -1,8 +1,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arabjonoff&color=brightgreen" alt="Arabjonoff "/> </p>
-Hello I am Mukhammadjon
-<br>
+<p>Hello I am Mukhammadjon</p>
 <p>- 🔭 I’m currently working on communication skills</p>
 <p>- 🌱 I’m currently learning Go more deeper</p>
 <p>- 👯 I’m looking to collaborate on preparation for FAANG interviews</p>
