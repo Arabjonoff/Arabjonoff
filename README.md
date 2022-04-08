@@ -1,38 +1,57 @@
-### Hello World 👋👋👋
 
-### I am Mukhammadjon
+<p align="center">
+  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
+  </p>
+<h1 align="center">Hi 👋, I'm Bavisetti Narayan</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-[website]: https://github.com/Arabjonoff
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arabjonoff&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 
-[![Shahboz's github stats](https://github-readme-stats.vercel.app/api?username=Arabjonoff&count_private=true&include_all_commits&show_icons=true&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arabjonoff&color=brightgreen" alt="Arabjonoff "/> </p>
-
-- 🔭 I’m currently working on communication skills
-- 🌱 I’m currently learning Go more deeper
-- 👯 I’m looking to collaborate on preparation for FAANG interviews
-- 🤔 I’m looking for help with English to improve my speaking skills
-- 💬 Ask me about coding, pool, football, music, ... (anything you want) 
-- 📫 How to reach me: sheykxmuhammad@gmail.com
-- 🎥 Favorite movie: alone at home
-- ⚽️ Favorite team: FC Barcelona
-
-### Me on social networks:
-
-
-[linkedin]: https://www.linkedin.com/in/mukhammadjon-arabjonov-3800b8220/
-[instagram]: https://www.instagram.com/arabjonofff
-[facebook]: https://www.facebook.com/profile.php?id=100070709786508
-[telegram]: https://t.me/M_arabjonoff
+<br>
+<br>
+<p align="center">
+    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=narayanbavisetti&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="max-width:100%;">][telegram]
+<br>
+<br>
+
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=narayanbavisetti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 <br/>
-![snake gif](https://github.com/MrNurbek/github_bot/blob/output/github-contribution-grid-snake.gif)
+<br/>
 
-### Happy Coding
+<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/bavisetti-narayan-a94b5918b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/BNaraya45123467"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/bavisettinarayan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCcmNJfaRuHZi__FPkkXRvNw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
