@@ -2,14 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arabjonoff&color=brightgreen" alt="Arabjonoff "/> </p>
 ### I am Mukhammadjon
-- 🔭 I’m currently working on communication skills
-- 🌱 I’m currently learning Go more deeper
-- 👯 I’m looking to collaborate on preparation for FAANG interviews
-- 🤔 I’m looking for help with English to improve my speaking skills
-- 💬 Ask me about coding, pool, football, music, ... (anything you want)
-- 📫 How to reach me: sheykxmuhammad@gmail.com
-- 🎥 Favorite movie: alone at home
-- ⚽️ Favorite team: FC Barcelona
+<p>- 🔭 I’m currently working on communication skills</p>
+<p>- 🌱 I’m currently learning Go more deeper</p>
+<p>- 👯 I’m looking to collaborate on preparation for FAANG interviews</p>
+<p>- 🤔 I’m looking for help with English to improve my speaking skills</p>
+<p>- 💬 Ask me about coding, pool, football, music, ... (anything you want)</p>
+<p>- 📫 How to reach me: sheykxmuhammad@gmail.com</p>
+<p>- 🎥 Favorite movie: alone at home</p>
+<p>- ⚽️ Favorite team: FC Barcelona</p>
 <br>
 <br>
 
